@@ -1,4 +1,7 @@
-### Engineering Kiosk - Der deutschsprachige Software-Engineering-Podcast
+## Engineering Kiosk
+### Der deutschsprachige Software-Engineering-Podcast
+
+
 
 ### 🎙️ Unsere letzten Podcast Episoden
 
@@ -6,6 +9,4 @@
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-### 🔎 Wo finde ich mehr?
-
-Auf unserer Website [engineeringkiosk.dev)](https://engineeringkiosk.dev/).
+Auf unserer Website [engineeringkiosk.dev](https://engineeringkiosk.dev/) gibts mehr!
