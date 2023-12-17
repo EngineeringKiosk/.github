@@ -1,4 +1,7 @@
-### Engineering Kiosk - Der deutschsprachige Software-Engineering-Podcast
+## Engineering Kiosk
+### Der deutschsprachige Software-Engineering-Podcast
+
+
 
 ### 🎙️ Unsere letzten Podcast Episoden
 
@@ -14,6 +17,4 @@
 - [#93 Barbara Liskov - Das L in SOLID (Liskovsches Substitutionsprinzip &amp; Abstraktion)](https://engineeringkiosk.dev) (2 months ago)
 - [#92 Technologie trifft Deutsche Ausbildungskultur: Die moderne IT-Berufsausbildung mit Stefan Macke](https://engineeringkiosk.dev) (2 months ago)
 
-### 🔎 Wo finde ich mehr?
-
-Auf unserer Website [engineeringkiosk.dev)](https://engineeringkiosk.dev/).
+Auf unserer Website [engineeringkiosk.dev](https://engineeringkiosk.dev/) gibts mehr!
