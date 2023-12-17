@@ -1,7 +1,8 @@
-## Engineering Kiosk
-### Der deutschsprachige Software-Engineering-Podcast
+## Engineering Kiosk - Der deutschsprachige Software-Engineering-Podcast
 
-
+<p align="center">
+  <img width="500" height="500" src="https://github.com/EngineeringKiosk/.github/blob/main/images/podcast_square.jpg" alt="Engineering Kiosk Podcast" title="Engineering Kiosk Podcast">
+</p>
 
 ### 🎙️ Unsere letzten Podcast Episoden
 
