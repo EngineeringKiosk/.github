@@ -7,15 +7,15 @@
 ### 🎙️ Unsere letzten Podcast Episoden
 
 
-- [#114 Sales Engineers: Engineering und Sales in einer Person vereint mit Patrick Pissang](https://engineeringkiosk.dev) (today)
-- [#113 Selbstmarketing ohne Bullshit: Brag Documents](https://engineeringkiosk.dev) (1 week ago)
-- [#112 Das Engineering Manager Pendulum: Zwischen Coding und Leadership mit Tom Bartel](https://engineeringkiosk.dev) (2 weeks ago)
-- [#111 Side-Projects: Zwei Entwickler overengineeren einen Podcast](https://engineeringkiosk.dev) (3 weeks ago)
-- [#110 OKRs und Beyond: Agile Unternehmensführung mit Marco Alberti von Murakamy](https://engineeringkiosk.dev) (4 weeks ago)
+- [#115 Die Shift Left Philosophie: Mehr Verantwortung für Devs](https://engineeringkiosk.dev) (today)
+- [#114 Sales Engineers: Engineering und Sales in einer Person vereint mit Patrick Pissang](https://engineeringkiosk.dev) (1 week ago)
+- [#113 Selbstmarketing ohne Bullshit: Brag Documents](https://engineeringkiosk.dev) (2 weeks ago)
+- [#112 Das Engineering Manager Pendulum: Zwischen Coding und Leadership mit Tom Bartel](https://engineeringkiosk.dev) (3 weeks ago)
+- [#111 Side-Projects: Zwei Entwickler overengineeren einen Podcast](https://engineeringkiosk.dev) (4 weeks ago)
+- [#110 OKRs und Beyond: Agile Unternehmensführung mit Marco Alberti von Murakamy](https://engineeringkiosk.dev) (1 month ago)
 - [#109 Freeze! Warum dein Code manchmal eine Pause braucht](https://engineeringkiosk.dev) (1 month ago)
 - [#108 Agile Multi-Team Projekte: Die Kunst, hunderte Leute effektiv zu koordinieren mit Stephan Strack](https://engineeringkiosk.dev) (1 month ago)
 - [#107 Entwickler-Alltag: Die &#34;bösen&#34; Ablenkungen und das ewige Leiden mit dem Fokus](https://engineeringkiosk.dev) (1 month ago)
-- [#106 CI - Continuous Integration in der Praxis mit Michael Lihs von Thoughtworks](https://engineeringkiosk.dev) (1 month ago)
-- [#105 Cloud-Ausfallsicherheit: Die Realität von Regionen und Availability Zones](https://engineeringkiosk.dev) (2 months ago)
+- [#106 CI - Continuous Integration in der Praxis mit Michael Lihs von Thoughtworks](https://engineeringkiosk.dev) (2 months ago)
 
 Auf unserer Website [engineeringkiosk.dev](https://engineeringkiosk.dev/) gibts mehr!
