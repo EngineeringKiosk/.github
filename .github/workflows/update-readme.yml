@@ -10,7 +10,7 @@ jobs:
   markscribe:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4.1.1
+      - uses: actions/checkout@v4.1.4
 
       - uses: muesli/readme-scribe@master
         #env:
