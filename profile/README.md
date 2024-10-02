@@ -7,7 +7,7 @@
 ### 🎙️ Unsere letzten Podcast Episoden
 
 
-- [#143 Ship It! Deployment-Strategien und Anti-Patterns auf der letzten Meile](https://engineeringkiosk.dev) (today)
+- [#143 Ship It! Deployment-Strategien und Anti-Patterns auf der letzten Meile](https://engineeringkiosk.dev) (1 day ago)
 - [#142 Ist Return to Office die Zukunft? Was die Wissenschaft sagt - mit Jean-Victor Alipour vom IFO](https://engineeringkiosk.dev) (1 week ago)
 - [#141 Datenjournalismus - zwischen Grafik und Fakten mit Michael Kreil](https://engineeringkiosk.dev) (2 weeks ago)
 - [#140 Tech-Leadership: Die technische Vision als Leitfaden für Teams](https://engineeringkiosk.dev) (3 weeks ago)
