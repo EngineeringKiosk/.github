@@ -7,11 +7,11 @@
 ### 🎙️ Unsere letzten Podcast Episoden
 
 
-- [#143 Ship It! Deployment-Strategien und Anti-Patterns auf der letzten Meile](https://engineeringkiosk.dev) (1 day ago)
+- [#143 Ship It! Deployment-Strategien und Anti-Patterns auf der letzten Meile](https://engineeringkiosk.dev) (2 days ago)
 - [#142 Ist Return to Office die Zukunft? Was die Wissenschaft sagt - mit Jean-Victor Alipour vom IFO](https://engineeringkiosk.dev) (1 week ago)
 - [#141 Datenjournalismus - zwischen Grafik und Fakten mit Michael Kreil](https://engineeringkiosk.dev) (2 weeks ago)
 - [#140 Tech-Leadership: Die technische Vision als Leitfaden für Teams](https://engineeringkiosk.dev) (3 weeks ago)
-- [#139 Security Engineering und Hacking-Wettbewerbe mit Frederik Braun von Mozilla](https://engineeringkiosk.dev) (4 weeks ago)
+- [#139 Security Engineering und Hacking-Wettbewerbe mit Frederik Braun von Mozilla](https://engineeringkiosk.dev) (1 month ago)
 - [#138 Gemeinsam stark: Jobsharing und Tandems in der modernen Arbeitswelt mit Anna Drüing-Schlüter](https://engineeringkiosk.dev) (1 month ago)
 - [#137 Die Schaltsekunde und ihre IT-Folgen: Ein Sekundenbruchteil mit Impact](https://engineeringkiosk.dev) (1 month ago)
 - [#136 Als Knowledge Worker fit und gesund bleiben mit Patrick Cole](https://engineeringkiosk.dev) (1 month ago)
