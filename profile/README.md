@@ -7,15 +7,15 @@
 ### 🎙️ Unsere letzten Podcast Episoden
 
 
-- [#161 Sichere Daten trotz physischem Zugriff: Disk Encryption und Integritätsschutz von Laptops bis IoT-Devices mit David Gstir von sigma star](https://engineeringkiosk.dev) (today)
-- [#160 Grace Hopper mit UNMUTE IT](https://engineeringkiosk.dev) (1 day ago)
-- [#159 Verhaltensbezogene Interview-Fragen und STAR-Methode](https://engineeringkiosk.dev) (2 days ago)
-- [#158 Zykel-Erkennung in einer Linked List](https://engineeringkiosk.dev) (3 days ago)
-- [#157 Agile Arbeitsmethoden - Extreme Programming mit den Coding Buddies](https://engineeringkiosk.dev) (4 days ago)
-- [#156 Inbox Zero: der Pro-Tipp für deine Produktivität](https://engineeringkiosk.dev) (5 days ago)
-- [#155 Cursor AI mit der programmier.bar](https://engineeringkiosk.dev) (6 days ago)
-- [#154 Architektur-Diskussion: Design eines einfachen und robusten Preis-Scrapers](https://engineeringkiosk.dev) (1 week ago)
-- [#153 Wie hoste ich ein Large Language Modell (LLM) mit Kubernetes in 5 Minuten mit Data Science Deep Dive](https://engineeringkiosk.dev) (1 week ago)
-- [#152 Warum i und j als Zählvariablen genutzt werden](https://engineeringkiosk.dev) (1 week ago)
+- [#168 Beyond Learning Budgets: Was Team-Entwicklung wirklich braucht](https://engineeringkiosk.dev) (today)
+- [#167 Tabs vs. Spaces mit dem Index out of bounds Podcast](https://engineeringkiosk.dev) (1 day ago)
+- [#166 Das Fediverse mit Christian Stankowic vom Focus on Linux Podcast](https://engineeringkiosk.dev) (2 days ago)
+- [#165 Pessimistisches und Optimistisches Sperren in Datenbanken: Eine Geschichte](https://engineeringkiosk.dev) (3 days ago)
+- [#164 Suchalgorithmen: Lineare- und Binäre Suche &amp; Indizes mit Stefan Macke vom IT Berufe Podcast](https://engineeringkiosk.dev) (4 days ago)
+- [#163 Benevolent Dictator for Life (BDFL)](https://engineeringkiosk.dev) (5 days ago)
+- [#162 Event Sourcing &amp; Märchen mit Golo Roden von the native web](https://engineeringkiosk.dev) (6 days ago)
+- [#161 Sichere Daten trotz physischem Zugriff: Disk Encryption und Integritätsschutz von Laptops bis IoT-Devices mit David Gstir von sigma star](https://engineeringkiosk.dev) (1 week ago)
+- [#160 Grace Hopper mit UNMUTE IT](https://engineeringkiosk.dev) (1 week ago)
+- [#159 Verhaltensbezogene Interview-Fragen und STAR-Methode](https://engineeringkiosk.dev) (1 week ago)
 
 Auf unserer Website [engineeringkiosk.dev](https://engineeringkiosk.dev/) gibts mehr!
