@@ -7,15 +7,15 @@
 ### 🎙️ Unsere letzten Podcast Episoden
 
 
-- [#216 Konsistenz und Isolation: von Write Skew bis Dirty Reads](https://engineeringkiosk.dev) (today)
-- [#215 Client SDKs entwickeln: Idiomatisch, robust, nativ](https://engineeringkiosk.dev) (1 week ago)
-- [#214 Daten aus Spotify &amp; Co: Architektur einer skalierbaren API-Data-Pipeline](https://engineeringkiosk.dev) (2 weeks ago)
-- [#213 Erfahrungen aus drei Jahren 100 % Remote ... ganze ohne Büro](https://engineeringkiosk.dev) (3 weeks ago)
-- [#212 Multi-Tenant done right: Isolationsmodelle, Cell-Based-Architecture, Shuffle Sharding &amp; Co mit Maximilian Schellhorn](https://engineeringkiosk.dev) (4 weeks ago)
+- [#217 Bug Management: Erfassen, Reporten, Klassifizieren, Triagieren](https://engineeringkiosk.dev) (today)
+- [#216 Konsistenz und Isolation: von Write Skew bis Dirty Reads](https://engineeringkiosk.dev) (1 week ago)
+- [#215 Client SDKs entwickeln: Idiomatisch, robust, nativ](https://engineeringkiosk.dev) (2 weeks ago)
+- [#214 Daten aus Spotify &amp; Co: Architektur einer skalierbaren API-Data-Pipeline](https://engineeringkiosk.dev) (3 weeks ago)
+- [#213 Erfahrungen aus drei Jahren 100 % Remote ... ganze ohne Büro](https://engineeringkiosk.dev) (4 weeks ago)
+- [#212 Multi-Tenant done right: Isolationsmodelle, Cell-Based-Architecture, Shuffle Sharding &amp; Co mit Maximilian Schellhorn](https://engineeringkiosk.dev) (1 month ago)
 - [#211 DDoS: Angriffe erkennen &amp; wirksam abwehren mit Stefan Behte](https://engineeringkiosk.dev) (1 month ago)
 - [#210 AMA II: Vom Dev-Stress zum Code-Exit – was ihr wissen wolltet!](https://engineeringkiosk.dev) (1 month ago)
 - [#209 In der Besenkammer jenseits der Cloud: Mittelstands-IT mit Patrick Terlisten](https://engineeringkiosk.dev) (1 month ago)
-- [#208 Personal Security 101: Passwörter, Keys &amp; Bequemlichkeit](https://engineeringkiosk.dev) (1 month ago)
-- [#207 Von JavaScript-Hass bis Linter-Liebe: Unsere erste AMA, mit Purpose!](https://engineeringkiosk.dev) (2 months ago)
+- [#208 Personal Security 101: Passwörter, Keys &amp; Bequemlichkeit](https://engineeringkiosk.dev) (2 months ago)
 
 Auf unserer Website [engineeringkiosk.dev](https://engineeringkiosk.dev/) gibts mehr!
