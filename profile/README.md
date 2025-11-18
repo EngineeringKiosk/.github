@@ -7,15 +7,15 @@
 ### 🎙️ Unsere letzten Podcast Episoden
 
 
-- [#221 Mobile Game Entwicklung mit Fabi Fink von Lotum](https://engineeringkiosk.dev) (today)
-- [#220 Code Reviews als Kommunikationsnetzwerk mit Prof. Michael Dorner](https://engineeringkiosk.dev) (1 week ago)
-- [#219 Technische Schulden: Bewusst aufbauen, gezielt abbauen](https://engineeringkiosk.dev) (2 weeks ago)
-- [#218 Bug Management Teil 2: Priorisieren, Fixen, Verhindern, Anerkennen](https://engineeringkiosk.dev) (3 weeks ago)
-- [#217 Bug Management: Erfassen, Reporten, Klassifizieren, Triagieren](https://engineeringkiosk.dev) (4 weeks ago)
+- [#222 SOLID in Go, JS &amp; Co: passt das noch zur modernen Software?](https://engineeringkiosk.dev) (today)
+- [#221 Mobile Game Entwicklung mit Fabi Fink von Lotum](https://engineeringkiosk.dev) (1 week ago)
+- [#220 Code Reviews als Kommunikationsnetzwerk mit Prof. Michael Dorner](https://engineeringkiosk.dev) (2 weeks ago)
+- [#219 Technische Schulden: Bewusst aufbauen, gezielt abbauen](https://engineeringkiosk.dev) (3 weeks ago)
+- [#218 Bug Management Teil 2: Priorisieren, Fixen, Verhindern, Anerkennen](https://engineeringkiosk.dev) (4 weeks ago)
+- [#217 Bug Management: Erfassen, Reporten, Klassifizieren, Triagieren](https://engineeringkiosk.dev) (1 month ago)
 - [#216 Konsistenz und Isolation: von Write Skew bis Dirty Reads](https://engineeringkiosk.dev) (1 month ago)
 - [#215 Client SDKs entwickeln: Idiomatisch, robust, nativ](https://engineeringkiosk.dev) (1 month ago)
 - [#214 Daten aus Spotify &amp; Co: Architektur einer skalierbaren API-Data-Pipeline](https://engineeringkiosk.dev) (1 month ago)
-- [#213 Erfahrungen aus drei Jahren 100 % Remote ... ganze ohne Büro](https://engineeringkiosk.dev) (1 month ago)
-- [#212 Multi-Tenant done right: Isolationsmodelle, Cell-Based-Architecture, Shuffle Sharding &amp; Co mit Maximilian Schellhorn](https://engineeringkiosk.dev) (2 months ago)
+- [#213 Erfahrungen aus drei Jahren 100 % Remote ... ganze ohne Büro](https://engineeringkiosk.dev) (2 months ago)
 
 Auf unserer Website [engineeringkiosk.dev](https://engineeringkiosk.dev/) gibts mehr!
