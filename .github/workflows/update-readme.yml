@@ -2,6 +2,9 @@ name: Update README
 
 on:
   push:
+    branches:
+      - main
+  pull_request:
   schedule:
     - cron: "5 8 * * 2" # At 08:05 on Tuesday.
   workflow_dispatch:
@@ -13,18 +16,17 @@ jobs:
       - uses: actions/checkout@v5.0.0
 
       - uses: muesli/readme-scribe@master
-        #env:
-        #  GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "profile/README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v6.0.1
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README
           branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme scribe bot <stehtisch@engineeringkiosk.dev>
+          commit_message: "chore: Update generated README"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
