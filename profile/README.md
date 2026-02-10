@@ -7,15 +7,15 @@
 ### 🎙️ Unsere letzten Podcast Episoden
 
 
-- [#253 Technisches Produktmanagement mit Michael Gasch von Amazon Web Services](https://engineeringkiosk.dev) (today)
-- [#252 Coole Sprach-Features in Ada, F#, PHP und Go](https://engineeringkiosk.dev) (1 week ago)
-- [#251 Ohne Frust ins Jahresgespräch: Performance Reviews und Feedback richtig nutzen](https://engineeringkiosk.dev) (2 weeks ago)
-- [#250 Tech-Leadership &amp; Skalieren: Was ein CTO wirklich tun muss mit Philipp Deutscher](https://engineeringkiosk.dev) (3 weeks ago)
-- [#249 Resilience Engineering: Rate Limiting oder wie 429 dein System rettet](https://engineeringkiosk.dev) (4 weeks ago)
+- [#254 Domain Driven Design: Hype, Hate oder Handwerk für komplexe Systeme?](https://engineeringkiosk.dev) (today)
+- [#253 Technisches Produktmanagement mit Michael Gasch von Amazon Web Services](https://engineeringkiosk.dev) (1 week ago)
+- [#252 Coole Sprach-Features in Ada, F#, PHP und Go](https://engineeringkiosk.dev) (2 weeks ago)
+- [#251 Ohne Frust ins Jahresgespräch: Performance Reviews und Feedback richtig nutzen](https://engineeringkiosk.dev) (3 weeks ago)
+- [#250 Tech-Leadership &amp; Skalieren: Was ein CTO wirklich tun muss mit Philipp Deutscher](https://engineeringkiosk.dev) (4 weeks ago)
+- [#249 Resilience Engineering: Rate Limiting oder wie 429 dein System rettet](https://engineeringkiosk.dev) (1 month ago)
 - [#248 Data as a Product: Die Struktur &amp; Skalierung von Data-Teams mit Mario Müller von Veeva](https://engineeringkiosk.dev) (1 month ago)
 - [#247 Advent(s)kalender: Behind the Scenes](https://engineeringkiosk.dev) (1 month ago)
 - [#246 Dev Advocate: Warum Developer Relations mehr ist als Talks &amp; Swag mit Philipp Krenn von Elastic](https://engineeringkiosk.dev) (1 month ago)
 - [#245 Selbstmanagement: Weniger To-do-Listen-Stress, mehr Produktivität](https://engineeringkiosk.dev) (1 month ago)
-- [#244 Spiele für Softwareentwicklerinnen](https://engineeringkiosk.dev) (1 month ago)
 
 Auf unserer Website [engineeringkiosk.dev](https://engineeringkiosk.dev/) gibts mehr!
