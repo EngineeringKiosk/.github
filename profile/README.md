@@ -7,15 +7,15 @@
 ### 🎙️ Unsere letzten Podcast Episoden
 
 
-- [#272 Wenn der Chef das Problem ist: Destruktive Führung, Gaslighting &amp; Exit-Plan](https://engineeringkiosk.dev) (today)
-- [#271 Selbstmanagement statt Zeitmanagement: Warum du nie fertig wirst - mit Dirk Deimeke](https://engineeringkiosk.dev) (1 week ago)
-- [#270 Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis mit Matthias Kirschner von der FSFE](https://engineeringkiosk.dev) (2 weeks ago)
-- [#269 Performance-Basics: Indexstrukturen, Cache-Lokalität &amp; Zugriffsmuster](https://engineeringkiosk.dev) (3 weeks ago)
-- [#268 Unsere Side-Project-Fails: Wo wir aufgegeben haben ... und warum](https://engineeringkiosk.dev) (4 weeks ago)
+- [#273 Bäume, Hashes, Bitmaps: Performance ist kein Zufall](https://engineeringkiosk.dev) (today)
+- [#272 Wenn der Chef das Problem ist: Destruktive Führung, Gaslighting &amp; Exit-Plan](https://engineeringkiosk.dev) (1 week ago)
+- [#271 Selbstmanagement statt Zeitmanagement: Warum du nie fertig wirst - mit Dirk Deimeke](https://engineeringkiosk.dev) (2 weeks ago)
+- [#270 Ada und Zangemann: Ein Märchen über Software, Skateboards und Himbeereis mit Matthias Kirschner von der FSFE](https://engineeringkiosk.dev) (3 weeks ago)
+- [#269 Performance-Basics: Indexstrukturen, Cache-Lokalität &amp; Zugriffsmuster](https://engineeringkiosk.dev) (4 weeks ago)
+- [#268 Unsere Side-Project-Fails: Wo wir aufgegeben haben ... und warum](https://engineeringkiosk.dev) (1 month ago)
 - [#267 No Deploy Friday: Meme, Ausrede oder Reifegrad-Test? mit Sujeevan Vijayakumaran](https://engineeringkiosk.dev) (1 month ago)
 - [#266 Level, Titel, Geld: Die Spielregeln für Beförderungen &amp; Gehälter](https://engineeringkiosk.dev) (1 month ago)
 - [#265 One Billion Row Challenge: Java mit mmap, Unsafe &amp; richtig vielen Bit-Tricks](https://engineeringkiosk.dev) (1 month ago)
-- [#264 Seniorität im KI-Zeitalter: Eine Ode an den Junior](https://engineeringkiosk.dev) (1 month ago)
-- [#263 Das Monorepo Comeback: Project Graphs, Dev-Kultur und AI Agents mit Max Kless von Nx](https://engineeringkiosk.dev) (2 months ago)
+- [#264 Seniorität im KI-Zeitalter: Eine Ode an den Junior](https://engineeringkiosk.dev) (2 months ago)
 
 Auf unserer Website [engineeringkiosk.dev](https://engineeringkiosk.dev/) gibts mehr!
